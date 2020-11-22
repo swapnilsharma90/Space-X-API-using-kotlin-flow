@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SpaceX API</string>
+    <string name="error_msg_400">Our system has encountered an error and we are working hard to fix it. Please try again later.</string>
+    <string name="error_msg_401">Our system has encountered an error and we are working hard to fix it. Please try again later.</string>
+    <string name="error_msg_403">Our system has encountered an error and we are working hard to fix it. Please try again later.</string>
+    <string name="error_msg_404">What you are looking for is unavailable right now. Please try again later</string>
+    <string name="error_msg_500">Our system has encountered an error and we are working hard to fix it. Please try again later.</string>
+    <string name="error_msg_generic">Our system has encountered an error and we are working hard to fix it. Please try again later.</string>
+    <string name="launch_success">Launch success</string>
+    <string name="launch_failed">Launch failed</string>
+    <string name="launches">Launches</string>
+    <string name="retry">Retry</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="past_launches">Past launches</string>
+    <string name="launch_details">Launch details</string>
+    <string name="mission_name">Mission name :\u0020 </string>
+    <string name="launch_date">Launch date  :\u0020</string>
+    <string name="youtube_link">Youtube Link :\u0020 </string>
+    <string name="status">Status :\u0020 </string>
+    <string name="details">Details :\u0020 </string>
+    <string name="watch_video">Watch Video</string>
+
+</resources>
